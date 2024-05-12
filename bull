@@ -1,40 +1,40 @@
 #EXTM3U url-tvg=""
 
 
-#EXTINF:-1 tvg-id="Freeshot OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="Freeshot OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 1
 https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=abea82e3da0dc4a79879e2519c56c5731bcceabf-54908fced32aa3eb6dbc877416b4db99-1715476650-1715465850 
 
-#EXTINF:-1 tvg-id="Freeshot2 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="Freeshot2 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 2
 https://wideiptv.top/OneToro/tracks-a1/index.fmp4.m3u8?token=af64324a578b3f6f71a66db0ec1d5f73f4c2fa75-d81f895b1162347038acd180f9a26e81-1715483215-1715472415
 
 
 
 
-#EXTINF:-1 tvg-id="ElPlanD Opcion 1 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="ElPlanD Opcion 1 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 3
 https://tutlehd4.com//online.php?a=56
 
-#EXTINF:-1 tvg-id="ElPlanD Opcion 2 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="ElPlanD Opcion 2 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 4
 https://miztv.shop/tele/stream-749.php
 
-#EXTINF:-1 tvg-id="ElPlanD Opcion 3 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="ElPlanD Opcion 3 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 5
 https://1.dlhd.sx/cast/stream-749.php
 
-#EXTINF:-1 tvg-id="ElPlanD Opcion 4 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="ElPlanD Opcion 4 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 6
 https://1.dlhd.sx/stream/stream-749.php
 
 
 
 
 
-#EXTINF:-1 tvg-id="arsapilily toros3.0 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="arsapilily toros3.0 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 7
 https://3.tutl24.xyz/live/ST3dd7efbeee72510.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-id="alternativa toros3.0 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+#EXTINF:-1 tvg-id="alternativa toros3.0 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD 8
 https://tutlehd3.xyz//online.php?a=56
 
-#EXTINF:-1 tvg-id="Alternativa OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD OFF
+#EXTINF:-1 tvg-id="Alternativa OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD OFF 9
 https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=ea5f75af90f84119caddcf4f7aef1131a87d4a2d-35ed3526f496584c92e26d4e82fa0c4d-1715466741-1715455941
