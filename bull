@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-id="Freeshot OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
 https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=abea82e3da0dc4a79879e2519c56c5731bcceabf-54908fced32aa3eb6dbc877416b4db99-1715476650-1715465850 
 
+#EXTINF:-1 tvg-id="Freeshot2 OneToro TV HD" tvg-logo="https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png" group-title="serviBox", OneToro TV HD
+https://wideiptv.top/OneToro/tracks-a1/index.fmp4.m3u8?token=af64324a578b3f6f71a66db0ec1d5f73f4c2fa75-d81f895b1162347038acd180f9a26e81-1715483215-1715472415
 
 
 
