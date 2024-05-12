@@ -1,0 +1,29 @@
+{
+	"nombre": "serviBox",
+    "autor": "serviBox (Haz-tu-liada al 05-11-2024)",
+    "imagen": "",
+    "info": "Enlaces de internet",
+    "telegrama": "",
+    "url": "https://raw.githubusercontent.com/cheiiii/bull/main/bull3",
+    "grupos": [
+        {
+            "nombre": "Lista para todo el mundo (Sin lucrarse)",
+            "imagen": "https://www.fotoefectos.com/images/202312/24/fotoefectos.com__final_8036384233957609407_.jpg?act=27",
+            "información": "",
+            "estaciones": []
+        },
+        {
+            "nombre": "Toros",
+            "imagen": "",
+            "información": "",
+            "estaciones": [
+                {
+                    "nombre": "One Toro",
+                    "imagen": "https://ejemplo.com/imagen.jpg",
+                    "url_video": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=abea82e3da0dc4a79879e2519c56c5731bcceabf-54908fced32aa3eb6dbc877416b4db99-1715476650-1715465850",
+                    "url_audio": "https://wideiptv.top/OneToro/tracks-a1/index.fmp4.m3u8?token=af64324a578b3f6f71a66db0ec1d5f73f4c2fa75-d81f895b1162347038acd180f9a26e81-1715483215-1715472415"
+                }
+            ]
+        }
+    ]
+}
